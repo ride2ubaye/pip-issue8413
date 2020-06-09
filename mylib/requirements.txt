@@ -1,0 +1,4 @@
+# clusterpack has a dependency to cloudpickle==1.0.0
+cluster-pack==0.0.6
+# mlflow has a dependency to cloudpickle
+mlflow
